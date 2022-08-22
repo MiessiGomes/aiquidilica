@@ -1,0 +1,8 @@
+    CPF                   NOME                    TELEFONE            EMAIL                               SENHA                              ENDEREÇO                                                                            CEP
+
+195.425.540-36 .....Eliza Matsunaga .......(55) 56716-9560 .....eliza.navalha@outlook.com .............525898Ldsd .......Travessa Tocantins, Autran Nunes, Fortaleza, CE .....................................................60527-350
+126.165.590-72 .....Jessie James ..........(12) 69076-8389 .....jessiematador@gmail.com ...............01345Dssw .........Rua Jose Henrique Tomaz Rezende, Parque Residencial Candido Portinari, Ribeirao Preto, SP ...........14093-568
+287.154.170-18 .....Hannibal Lecter .......(75) 78812-2884 .....carninha.boa@bol.com.br ...............82564787Qs ........Beco Um, Cascata, Porto Alegre, RS ..................................................................91712-312
+089.171.460-07 .....Odin Odinson ..........(29) 16774-0788 .....guerreirodms@yahoo.com ................Snf4512886 ........Avenida Anhembi, Jardim Aero Rancho, Campo Grande, MS ...............................................79083-480
+524.678.860-18 .....Bruce Wayne ...........(21) 58072-2350 .....nao.sou.o.batman@wayneenterprise.com ..gdns#na@L5 ........Quadra CLS 406, Asa Sul, Brasilia, DF ...............................................................70255-500
+195.425.540-36 .....admin .................(55) 56716-9560 .....admin .................................1234 ..............Travessa Tocantins, Autran Nunes, Fortaleza, CE .....................................................60527-350
